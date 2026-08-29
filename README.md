@@ -100,7 +100,7 @@ Si prefiere tener el control total o guardarlo localmente:
 
 ---
 
-## 🌟 Cómo proponer cambios al repo principal (Pull Request)
+## 🌟 Cómo proponer cambios al repositorio principal (Pull Request)
 
 1. Asegúrate de que tu fork esté **actualizado** (ver arriba).
 2. Crea una nueva rama y guarda tus cambios:
@@ -122,7 +122,14 @@ Es sumamente común que, al intentar **simplemente leer o previsualizar** un not
 GitHub tiene un límite de tiempo de aproximadamente 5 segundos para procesar visualmente el archivo. Si el servidor de GitHub tiene tráfico alto, aborta la carga. Además, si usted usa extensiones en su navegador web (como bloqueadores de anuncios, traductores automáticos o plugins de *Modo Oscuro*), estos interfieren con GitHub y rompen la visualización. **Importante: El archivo no está dañado ni el código está roto.**
 
 **¿Cómo leer el archivo cuando GitHub falla?**
-Si se encuentra con este error, la solución es ignorar el visor de GitHub y **abrir el archivo directamente en Google Colab**. Utilice cualquiera de las alternativas explicadas en la sección anterior. Una vez abierto en Google Colab, todo el contenido se cargará y visualizará perfectamente sin importar qué extensiones tenga en su navegador.
+Si se encuentra con este error, la solución es ignorar el visor de GitHub y **abrir el archivo directamente en Google Colab**.
+
+Para ello, utilice cualquiera de las alternativas explicadas en la sección anterior:
+*   **Método 1:** Ingrese a Colab, vaya a la pestaña GitHub y busque este repositorio.
+*   **Método 4:** Descargue el archivo (botón *Download raw file*), vaya a Colab y súbalo manualmente.
+
+Una vez abierto en Google Colab, todo el contenido se cargará y visualizará perfectamente sin importar qué extensiones tenga en su navegador.
+
 
 - **¿Por qué no me aparece “Sync fork”?**  
   A veces está en la pestaña **Pull requests** de tu fork.  
